@@ -1,5 +1,4 @@
 .repo*
 .gitconfig
 .bash_history
-bash_utils/
 imx-*
